@@ -1,0 +1,16 @@
+c3135fbebc4efd1f87752d9655facbcd *DESCRIPTION
+0fc1988e94e74248f323d22cb9fd759f *NAMESPACE
+b3ec6b3b510f37d2419e288c643ae45c *R/GPRMortality.R
+20df19dfe8a8de36f80aeb83eca62def *R/GPRMortalitySummary.R
+2085a71eb06a7039acbccd7a7900d0d6 *R/GPRMortality_child.R
+8813ca121dffdfc769792af6b8c32175 *data/data.mean.child.rda
+d09e95aca357f7388725363e115cfbac *data/data.mean.rda
+fc97205b673f15e65fb93820cec595f1 *data/data.mortality.child.rda
+18bd4cede3a9cb9bc9e26571167de59c *data/data.mortality.rda
+145a7311cee485ab54dbc4c0629209af *man/GPRMortality.Rd
+471f82bde6d27a384613ecb1d6217b9f *man/GPRMortalityChild.Rd
+6d9662106ee57a30f510e55d0db59865 *man/GPRMortalitySummary.Rd
+01046903e8d0f2ada88b6c0184e78763 *man/data.mean.Rd
+bcf16f44d632ef353621b2ca1da08f2c *man/data.mean.child.Rd
+ef7b84b560dffc3df488209b66a306b7 *man/data.mortality.Rd
+d8ae053ad9fb3930b6cb0b7a7bf611b6 *man/data.mortality.child.Rd
